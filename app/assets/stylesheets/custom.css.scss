@@ -3,11 +3,19 @@
 .navbar {
   background-color: #77bdb8 !important;  
 } 
-  
-// .navbar-brand {
-//   font-size: 2rem;
-// }
+
+.search-area {
+  padding-top: 2em;
+}
 
 h1 {
   color: #365e5b;
+}
+
+.no-right-padding {
+  padding-right: 0 !important;
+}
+
+.no-left-padding {
+  padding-left: 0 !important;
 }
