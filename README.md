@@ -12,3 +12,6 @@ Check out ->[Here](https://immense-scrubland-49940.herokuapp.com/)
 
 * Ruby 2.6.6
 * Rails 6.0.3
+* IEX-ruby-client
+* Devise
+* Bootstrap
